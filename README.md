@@ -19,11 +19,11 @@ Software developer in Melbourne. I graduated from Monash University (Bachelor of
 
 ### Tech I use
 
-**Languages:** TypeScript, JavaScript, Python, C#, Swift, Java, PHP, SQL
-**Web and APIs:** React, Next.js, Node.js, Express, FastAPI, ASP.NET Core
-**Data:** PostgreSQL, MongoDB, MySQL, DynamoDB
-**Cloud and DevOps:** AWS, Google Cloud, Docker, Kubernetes, Vercel, Render, GitLab CI
-**Testing:** pytest, Vitest, Postman
+- **Languages:** TypeScript, JavaScript, Python, C#, Swift, Java, PHP, SQL
+- **Web and APIs:** React, Next.js, Node.js, Express, FastAPI, ASP.NET Core
+- **Data:** PostgreSQL, MongoDB, MySQL, DynamoDB
+- **Cloud and DevOps:** AWS, Google Cloud, Docker, Kubernetes, Vercel, Render, GitLab CI
+- **Testing:** pytest, Vitest, Postman
 
 ### Contact
 
