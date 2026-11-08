@@ -1,4 +1,4 @@
-## Hi, I'm Joe (Maihemuti Jiewulan)
+## Hi, I'm Maihemuti Jiewulan
 
 Software developer in Melbourne. I graduated from Monash University (Bachelor of Information Technology, Software Development) in October 2026, and I build full-stack web apps, cloud systems and iOS apps.
 
